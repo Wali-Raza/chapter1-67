@@ -1,3 +1,5 @@
+//wali raza roll#:WM12181
+//email:walimanzoor321@gmail.com
 // #include<stdio.h>
 //     var a, b;
 // {
